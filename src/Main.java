@@ -47,7 +47,7 @@ public class Main {
     }
 
     public static void task4() {
-        double sum = 0;
+        int sum = 0;
         int countMonth = 0;
         System.out.println("Задание 4");
         while (sum < 12000000) {
@@ -72,7 +72,7 @@ public class Main {
     }
 
     public static void task6() {
-        int sum = 0;
+        double sum = 0;
         int countMonth = 0;
         System.out.println("Задание 6");
         while (countMonth <= 12 * 9) {
